@@ -21,6 +21,10 @@ submission/
 #dict
 feature_dic.csv
 
+#models
+.h5
+seven.doc2vec
+
 #PPT
 .pptx
 
