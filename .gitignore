@@ -1,0 +1,29 @@
+#공지사항
+공지 및 문서양식/
+
+# 참고자료
+참고자료/
+
+# baseline
+baseline-Colab Notebooks/
+#data
+data/
+
+#pos-tagged
+pos_tagged/
+
+#prep-data
+prep_data/
+
+#submissions
+submission/
+
+#dict
+feature_dic.csv
+
+#PPT
+.pptx
+
+#jupyter checkpoint
+.ipynb_checkpoints/
+
